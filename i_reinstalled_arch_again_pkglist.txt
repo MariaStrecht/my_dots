@@ -1,0 +1,6 @@
+wmctrl
+xdotool
+libinput-gestures
+redshift
+snapd
+spotify
