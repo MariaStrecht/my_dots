@@ -4,27 +4,27 @@
 <!-- Preview -->
 ###  Preview
 
-<!--
-Floating Usage:
+
+Desktop:
 <p align="center">
-  <img src="preview/floating.png"> 
+  <img src="screenshots/1_desktop.png"> 
 </p>
 
 Tiled Usage:
 <p align="center"> 
- <img src="preview/tiled.png">
+ <img src="screenshots/2_tiling.png">
 </p>
 
-Rofi:
+Firefox:
 <p align="center">
-  <img src="preview/rofi.png">
+  <img src="screenshots/3_firefox.png">
 </p>
 
-Lock:
+Code:
 <p align="center">
-  <img src="preview/lock.png">
+  <img src="screenshots/4_code.png">
 </p>
--->
+
 ---
 
 
