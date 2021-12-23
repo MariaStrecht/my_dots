@@ -4,3 +4,8 @@ libinput-gestures
 redshift
 snapd
 spotify
+discord
+zoom
+notion
+opera
+gimp
