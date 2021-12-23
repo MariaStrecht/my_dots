@@ -58,7 +58,7 @@ Code:
    - **Icon Theme**
       > [Faded-Originals-Icons](https://www.gnome-look.org/p/1437064) (the Faded-Originals-Icons-grey-dark package is used)
 
-### ❖ Acknowledgements
+### Acknowledgements
 
    - **Inspiration**
       - [janleigh](https://github.com/janleigh/dotfiles) (README structure)
